@@ -1,0 +1,15 @@
+My_Hakaton_2026/
+├── family_main.py               # исправленный, полный, с лаунчером
+├── Modelfile                    # описание модели family-mentor-v1
+├── ollama_setup.bat             # установка Ollama и модели
+├── run_app.bat                  # запуск с проверкой окружения
+├── setup.iss                    # Inno Setup скрипт (создаёт установщик)
+├── requirements.txt
+├── README_ru.md
+├── LICENSE.txt
+├── .gitignore
+└── assets/
+    ├── logo.ico                 # иконка вкладки браузера
+    ├── logus.ico                # иконка в боковом меню
+    ├── status.ico               # иконка ярлыка на рабочем столе
+    └── logo.png                 # (опционально) большой логотип в шапку
