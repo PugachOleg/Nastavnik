@@ -1,2 +1,0 @@
-# Nastavnik
-MY_project
